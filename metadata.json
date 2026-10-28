@@ -1,0 +1,6 @@
+{
+  "name": "QuickJot",
+  "description": "A fast, expressive short-notes app with rich editing, tags, reminders, and offline security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
